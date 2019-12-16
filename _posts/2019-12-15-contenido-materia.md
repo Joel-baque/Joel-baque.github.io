@@ -14,6 +14,8 @@ Demandas cada vez más desfasadas frente a las ofertas
 Baja calidad y fiabilidad del producto
 Dependencia de los realizadores
 
+![_config.yml]({{ site.baseurl }}/images/1.png)
+
 ### Esto es lo que se ha denominado habitualmente "crisis del software", que históricamente se generó en los siguientes pasos:
 
 Primera Fase. Los albores (1945-1955)
@@ -49,6 +51,8 @@ Especificación;
 Diseño e implementación;
 Validación;
 Evolución. 
+
+![_config.yml]({{ site.baseurl }}/images/2.jpg)
 
 ### Otras características del proceso de SW :
 
